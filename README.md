@@ -1,7 +1,7 @@
 ### Nadeem Ahmad
-##### Software Engineer & AI Enthusiast 
+#### Software Engineer & AI Enthusiast 
 
-Hey 👋, I'm Nadeem Ahmad, a full stack software engineer with a passion for building high-quality, scalable applications. My expertise includes working with technologies such as React, Node, JavaScript, TypeScript, and AWS, among others.
+Hey 👋, I'm Nadeem Ahmad, a full stack software engineer with a passion for building high-quality, scalable applications. 
 
 Over the years, I have gained extensive experience in developing complex web applications, from designing and implementing robust architectures to optimizing performance and ensuring security.
 
