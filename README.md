@@ -16,7 +16,7 @@ If you have any questions or would like to connect, please feel free to reach ou
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/nadeemahmad)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/IstNadeem)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nadeem.ahmad.na)
-[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white)](https://dev.to/nadeemahmad)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/nadeemahmad)
 [![Outlook Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:youremail@example.com)](mailto:nadeem.ahmad.na@outlook.com)
 [![Website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://yourwebsite.com/)](https://nadeemahmad.tech/)
 [![Calendly Badge](https://img.shields.io/badge/-Schedule%20a%20Meeting-green?style=flat-square&logo=calendly&logoColor=white&link=https://calendly.com/YourUsername)](https://calendly.com/nadeem-ahmad-na)
