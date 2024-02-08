@@ -18,16 +18,12 @@ If you have any questions or would like to connect, please feel free to reach ou
 
 ### **Technical Skills**
 
-**💻 Front End**
-
 ![React JS](https://img.shields.io/badge/-React_JS-blue?logo=react)
 ![React Query](https://img.shields.io/badge/-React_Query-yellow?logo=react)
 ![Svelte](https://img.shields.io/badge/-Svelte-red?logo=svelte)
 ![Angular 2+](https://img.shields.io/badge/-Angular_2%2B-red?logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
-
-**💻️ Backend**
 
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)
 ![AWS Serverless](https://img.shields.io/badge/-AWS_Serverless-orange?logo=amazon-aws)
@@ -41,8 +37,6 @@ If you have any questions or would like to connect, please feel free to reach ou
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-pink?logo=graphql)
 
-**🛠️ DevOps**
-
 ![GitLab](https://img.shields.io/badge/-GitLab-yellow?logo=gitlab)
 ![CI](https://img.shields.io/badge/-CI-yellowgreen?logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
@@ -53,8 +47,6 @@ If you have any questions or would like to connect, please feel free to reach ou
 ![Gulp](https://img.shields.io/badge/-Gulp-red?logo=gulp)
 ![Grunt](https://img.shields.io/badge/-Grunt-yellowgreen?logo=grunt)
 ![Rollup](https://img.shields.io/badge/-Rollup-blueviolet?logo=rollup.js)
-
-**🧪 Testing**
 
 ![Unit Testing](https://img.shields.io/badge/-Unit_Testing-blue)
 ![Integration Testing](https://img.shields.io/badge/-Integration_Testing-blueviolet)
