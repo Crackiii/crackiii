@@ -9,6 +9,8 @@ In addition to my technical skills, I am a collaborative team player who thrives
 
 If you have any questions or would like to connect, please feel free to reach out to me.
 
+![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=crackiii&count_private=true)
+
 ### **Reach out to me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad-167921156/)
